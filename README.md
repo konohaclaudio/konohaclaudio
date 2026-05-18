@@ -1,21 +1,23 @@
-# 💫 Sobre mim:
+# 💫 About Me:
 
-Analista de Sistemas e Desenvolvedor Full Stack | Android Developer (Kotlin/Java)
+Full Stack Developer & Systems Analyst | Android Developer (Kotlin/Java)
 
-Especializado em construir sistemas completos do zero — arquitetura MVCs, MVVM, APIs REST, integrações de pagamento e interfaces responsivas. Combino mobile nativo, back-end robusto e front-end moderno para entregar soluções reais para negócios.
+I specialize in building complete systems from the ground up, from architecture design to deployment. Experienced in MVC and MVVM architectures, REST APIs, payment gateway integrations, and responsive interfaces.
 
+My work combines native Android development, scalable back-end solutions, and modern front-end experiences to create products that solve real business problems with performance, usability, and clean architecture at the core.
 
+Passionate about turning ideas into functional digital experiences, whether it's a mobile app, management system, dashboard, or API ecosystem.
 
 ---
 
-# 📧 Contato:
+# 📧 Contact:
 - [Gmail](mailto:csantana.gon@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/claudio-santana-silva-junior-a8aa76147/)
 - [WhatsApp](https://api.whatsapp.com/send?phone=5514996373527)
 
 ---
 
-# 💻 Linguagens & Frameworks:
+# 💻 Languages & Frameworks:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -31,21 +33,21 @@ Especializado em construir sistemas completos do zero — arquitetura MVCs, MVVM
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-# 🗄️ Banco de Dados:
+# 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# 🏗️ Arquitetura & Padrões:
-![MVC](https://img.shields.io/badge/MVC%20Manual-273C2E?style=for-the-badge&logoColor=white)
+# 🏗️ Architecture & Patterns:
+![MVC](https://img.shields.io/badge/MVC%20Architecture-273C2E?style=for-the-badge&logoColor=white)
 ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-457D47?style=for-the-badge&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-273C2E?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-0095D5?style=for-the-badge&logoColor=white)
 ![PDO](https://img.shields.io/badge/PDO%20%2B%20Transactions-777BB4?style=for-the-badge&logoColor=white)
 
-# 🛠️ Ferramentas:
+# 🛠️ Tools:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
