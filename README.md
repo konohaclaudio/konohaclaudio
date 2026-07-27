@@ -246,10 +246,6 @@ Experience with:
 >
 > It is about understanding problems, designing systems and creating technology that generates real value.
 
-Most of the software I build lives in private repositories because it powers real businesses and real users.
-
-I enjoy transforming complex requirements into reliable, maintainable and scalable digital products.
-
 ---
 
 # ✍️ Random Dev Quote
